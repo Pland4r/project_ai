@@ -1,0 +1,7 @@
+Flask==3.0.2
+pandas==2.2.1
+numpy==1.26.4
+openai==1.12.0
+python-dotenv==1.0.1
+azure-ai-inference==1.0.0b9
+flask-cors==4.0.0

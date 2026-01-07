@@ -1,5 +1,4 @@
 
-# Requires Python 3.11+Flask==3.0.2
 pandas==2.2.1
 numpy==1.26.4
 openai==1.12.0
